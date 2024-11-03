@@ -2,10 +2,18 @@
 title: Getting Started
 layout: default
 nav_order: 2
+# has_toc: false
 ---
 
-# A minimal layout page
+# Getting started with the Zendesk Storage Offload Solution
 
-This is a child page that uses the same minimal layout as its parent page.
+Getting started with the Zendesk storage offload solution is a simple 3 step process, and typically only takes a few minutes.
 
-[Link button]({% link docs/getting-started/offload-settings.md %}){: .btn .btn-purple }
+1. [Zendesk Integration]({% link docs/getting-started/zendesk-integration.md %})
+2. [Offload Settings]({% link docs/getting-started/offload-settings.md %})
+3. [Zendesk Sidebar]({% link docs/getting-started/zendesk-sidebar.md %})
+
+
+[Next]({% link docs/getting-started/zendesk-integration.md %}){: .btn .btn-purple }
+
+_If you have any problems during setup please contact us and we'll be happy to provide assistance_
