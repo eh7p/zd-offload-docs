@@ -5,7 +5,7 @@ theme: just-the-docs
 logo: "assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
-url: https://zd-offload.docs.eh7p.com
+url: https://eh7p.com/zd-offload-docs
 
 aux_links:
   "Dashboard/Register": 
