@@ -4,6 +4,6 @@ parent: Articles
 layout: default
 ---
 
-# A minimal layout page
+# How to save on Zendesk storage fees
 
-This is a child page that uses the same minimal layout as its parent page.
+Article coming soon.

@@ -1,11 +1,11 @@
 ---
-title: Offload Settings
+title: Dashboard & Offload Settings
 layout: default
 parent: Getting Started
 nav_order: 2
 ---
 
-# Offload Settings
+# Dashboard & Offload Settings
 
 Once integrated with Zendesk you'll be taken to the dashboard. The dashboard is where you can keep track of offloading progress and modify offload settings.
 
@@ -27,6 +27,6 @@ Typically we recommend you should set to leave some storage in Zendesk for cost 
 ![Image](/assets/images/docs/getting-started/offload-settings/dashboard-filled.png)
 
 
-[Next - Zendesk Sidebar App Setup]({% link docs/getting-started/zendesk-sidebar.md %}){: .btn .btn-purple }
+[Next - Zendesk Sidebar App Setup]({% link docs/getting-started/3-zendesk-sidebar.md %}){: .btn .btn-purple }
 
-[Back - Zendesk Integration]({% link docs/getting-started/zendesk-integration.md %}){: .btn .btn-outline }
+[Back - Zendesk Integration]({% link docs/getting-started/1-zendesk-integration.md %}){: .btn .btn-outline }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 98
 ---
 
-# Custom work
+# Development and custom features
 
-Our Zendesk Offload Solution is created entirely in-house. If you wish for any development work, modifications, customisations, or other work, please get in touch to discuss your requirements.
+Our Zendesk Offload Solution is created entirely in-house. If you require any developments, modifications, customisations, or other work, please get in touch at [hello@eh7p.com](mailto:hello@eh7p.com) to discuss your requirements.
 
