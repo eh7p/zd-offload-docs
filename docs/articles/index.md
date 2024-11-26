@@ -7,4 +7,4 @@ has_toc: true
 
 # Articles
 
-A collection of articles about the Zendesk Storage Offload Solution
+A collection of articles about the Zendesk Storage Offload Solution, coming soon.
