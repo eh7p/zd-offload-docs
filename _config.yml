@@ -5,7 +5,8 @@ theme: just-the-docs
 logo: "assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
-url: https://just-the-docs.github.io
+url: https://eh7p.com
+baseurl: "/docs/zendesk-storage-offload"
 
 aux_links:
   "Dashboard/Register": 
