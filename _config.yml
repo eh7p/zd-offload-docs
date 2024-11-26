@@ -6,6 +6,7 @@ logo: "assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 url: https://eh7p.com/zd-offload-docs
+baseurl: /zd-offload-docs
 
 aux_links:
   "Dashboard/Register": 
