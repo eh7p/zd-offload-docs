@@ -14,6 +14,6 @@ Getting started with the Zendesk storage offload solution is a simple 3 step pro
 3. [Zendesk Sidebar]({% link docs/getting-started/zendesk-sidebar.md %})
 
 
-[Next]({% link docs/getting-started/zendesk-integration.md %}){: .btn .btn-purple }
+[Next - Zendesk Integration]({% link docs/getting-started/zendesk-integration.md %}){: .btn .btn-purple }
 
 _If you have any problems during setup please contact us and we'll be happy to provide assistance_
