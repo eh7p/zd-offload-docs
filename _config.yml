@@ -1,11 +1,11 @@
-title: Zendesk Storage Offload
-description: Documentation for the Zendesk Storage Offload solution
+title: Zendesk Storage Offload for Attachments
+description: Documentation for the Zendesk Storage Offload solution. Storing Zendesk Attachments externally while retaining access to save Zendesk additional storage costs.
 theme: just-the-docs
 
 logo: "assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
-url: https://eh7p.com/zd-offload-docs
+url: https://eh7p.com
 baseurl: /zd-offload-docs
 
 plugins:
