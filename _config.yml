@@ -8,6 +8,9 @@ favicon_ico: "/assets/images/favicon.ico"
 url: https://eh7p.com/zd-offload-docs
 baseurl: /zd-offload-docs
 
+plugins:
+  - jekyll-sitemap
+  
 aux_links:
   "Dashboard/Register": 
     - "https://zd-external-attachment-storage.eh7p.com/login"
