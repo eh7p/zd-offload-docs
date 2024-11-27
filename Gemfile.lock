@@ -43,6 +43,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-webp (1.0.0)
     just-the-docs (0.10.0)
       jekyll (>= 3.8.5)
       jekyll-include-cache
@@ -84,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.4)
   jekyll-sitemap
+  jekyll-webp
   just-the-docs (= 0.10.0)
 
 BUNDLED WITH

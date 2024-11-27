@@ -9,13 +9,19 @@ nav_order: 1
 
 Go to the [Registration Page](https://zd-external-attachment-storage.eh7p.com/login){:target="_blank"} to get started.
 
-![Image]({{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/login-page.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/login-page.webp">
+  <img alt="" src="{{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/login-page.png">
+</picture>
 
 Fill in your Zendesk subdomain, for instance for the Zendesk url _eh7p.zendesk.com_, your subdomain is _eh7p_. and proceed.
 
 You will be asked to authenticate with Zendesk and then taken back to our site for setup.
 
-![Image]({{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/plan-selection.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/plan-selection.webp">
+  <img alt="" src="{{ site.baseurl }}/assets/images/docs/getting-started/zendesk-integration/plan-selection.png">
+</picture>
 
 Read and Accept the Terms of Service then select the plan type you would like. We recommend the Cloud plan where we manage all storage. If you are interested in the Hybrid solution, please read about [Bringing your own storage]({% link docs/bring-your-own-storage/index.md %})
 

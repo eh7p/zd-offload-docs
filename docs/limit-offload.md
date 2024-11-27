@@ -8,7 +8,10 @@ nav_order: 4
 
 The settings page, accessible from the [dashboard](https://zd-external-attachment-storage.eh7p.com/dashboard), provides many options for limiting which attachments are offloaded.
 
-![Image]({{ site.baseurl }}/assets/images/docs/limit-offload/ticket-settings.png)
+<picture>
+  <source srcset="{{ site.baseurl }}/assets/images/docs/limit-offload/ticket-settings.webp" type="image/webp">
+  <img src="{{ site.baseurl }}/assets/images/docs/limit-offload/ticket-settings.png" alt="Screenshot of the ticket settings page">
+</picture>
 
 ## Limit automatic offloading
 

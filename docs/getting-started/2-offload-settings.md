@@ -9,7 +9,10 @@ nav_order: 2
 
 Once integrated with Zendesk you'll be taken to the dashboard. The dashboard is where you can keep track of offloading progress and modify offload settings.
 
-![Image]({{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-plain.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-plain.webp">
+  <img alt="" src="{{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-plain.png">
+</picture>
 
 From the quick settings you can modify:
 
@@ -24,7 +27,10 @@ All settings can be left blank to offload attachments from all closed tickets.
 
 Typically we recommend you should set to leave some storage in Zendesk for cost efficiency, and to offload some time after tickets are closed in case of re-opening. Limiting the total offloading can be useful while testing the solution. You can also test the solution without enabling auto-offloading using [manual offloading]({% link docs/manual-offloading.md %})
 
-![Image]({{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-filled.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-filled.webp">
+  <img alt="" src="{{ site.baseurl }}/assets/images/docs/getting-started/offload-settings/dashboard-filled.png">
+</picture>
 
 
 [Next - Zendesk Sidebar App Setup]({% link docs/getting-started/3-zendesk-sidebar.md %}){: .btn .btn-purple }
