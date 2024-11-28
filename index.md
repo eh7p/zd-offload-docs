@@ -17,7 +17,7 @@ With Attachment Storage Offload for Zendesk, you can:
 - Control how long you store customer files in Zendesk with auto-extract features.
 - Maintain easy access to attachments through the sidebar app.
 
-Attachment Storage Offload for Zendesk stores files on an industry-leading, secure, 3rd-party storage system. You can set it up in just clicks, helping you instantly save money on your Zendesk storage bill, and claw back $$$s of savings into the future. 
+Attachment Storage Offload for Zendesk stores files on an industry-leading, secure, GDPR compliant, 3rd-party storage system. You can set it up in just clicks, helping you instantly save money on your Zendesk storage bill, and claw back $$$s of savings into the future. 
 
 
 
