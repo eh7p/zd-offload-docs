@@ -11,7 +11,7 @@ You are now finished setting up for offloading attachments from your Zendesk ins
 
 Please note that offloading is limited to a trial of 3GB total until a [subscription]({% link docs/pricing.md %}) is started.
 
-_If you had any problems or feedback during setup or use please contact us at [hello@eh7p.com](mailto:hello@eh7p.com) and we'll be happy to provide assistance_
+_If you had any problems or feedback during setup or use please [get in touch]({% link docs/contact-us.md %}) and we'll be happy to provide assistance_
 
 [Open Dashboard](https://zd-external-attachment-storage.eh7p.com/dashboard){:target="_blank" .btn .btn-green }
 
