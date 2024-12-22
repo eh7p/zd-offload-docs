@@ -20,5 +20,4 @@ With Attachment Storage Offload for Zendesk, you can:
 Attachment Storage Offload for Zendesk stores files on an industry-leading, secure, GDPR compliant, 3rd-party storage system. You can set it up in just clicks, helping you instantly save money on your Zendesk storage bill, and claw back $$$s of savings into the future. 
 
 
-
 [Getting Started Guide]({% link docs/getting-started/index.md %}){: .btn .btn-purple }
