@@ -14,6 +14,7 @@ We can also provide fully [on-premises solutions]({% link docs/on-premises.md %}
 We can support almost any cloud storage solution including:
 - [AWS S3]({% link docs/bring-your-own-storage/aws-s3-storage.md %})
 - [Azure Storage Containers]({% link docs/bring-your-own-storage/azure-storage.md %})
+- [Microsoft Sharepoint Storage]({% link docs/bring-your-own-storage/sharepoint-storage.md %})
 - [Google Cloud Storage]({% link docs/bring-your-own-storage/gcp-storage.md %})
 - Digital Ocean Spaces
 - Cloudflare R2 Storage

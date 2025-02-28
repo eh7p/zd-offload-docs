@@ -35,7 +35,7 @@ Don't offload attachments which are smaller than a given size.
 
 ## Limit by attachment filetype
 
-Only extract attachments with the provided filetypes
+Only extract attachments with the provided filetypes, or don't extract attachments with given file extensions.
 
 ## Limit by inline atttachments
 
