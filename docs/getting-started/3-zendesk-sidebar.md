@@ -9,7 +9,7 @@ nav_order: 3
 
 The [sidebar app]({% link docs/sidebar-app.md %}) provides an interface within the Zendesk app to retain access to offloaded attachments.
 
-Navigate to the [Sidebar App page on the Zendesk Marketplace](https://www.zendesk.com/in/marketplace/apps/support/1002546/attachment-storage-offload/){:target="_blank"} and install the application
+Navigate to the [Sidebar App page on the Zendesk Marketplace](https://www.zendesk.com/marketplace/apps/support/1002546/attachment-storage-offload/){:target="_blank"} and install the application
 
 
 <picture>
