@@ -20,6 +20,9 @@ nav_external_links:
   - title: Dashboard
     url: https://zd-external-attachment-storage.eh7p.com/login
     opens_in_new_tab: true
+  - title: Homepage
+    url: https://eh7p.com/zd-offload
+    opens_in_new_tab: true
 
 search_enabled: true
 search:
