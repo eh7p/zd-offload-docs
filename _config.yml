@@ -13,6 +13,8 @@ plugins:
   - jekyll-webp
   
 aux_links:
+  "Home": 
+    - "https://eh7p.com/zd-offload"
   "Dashboard/Register": 
     - "https://zd-external-attachment-storage.eh7p.com/login"
     
