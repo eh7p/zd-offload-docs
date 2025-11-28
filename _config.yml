@@ -25,6 +25,9 @@ nav_external_links:
   - title: Homepage
     url: https://eh7p.com/zd-offload
     opens_in_new_tab: true
+  - title: Blog
+    url: https://eh7p.com/zd-offload/blog
+    opens_in_new_tab: true
 
 search_enabled: true
 search:
