@@ -13,7 +13,7 @@ The Sidebar App retains access for offloaded attachments directly in the Zendesk
   <img alt="" src="{{ site.baseurl }}/assets/images/docs/sidebar-app/zd-offloaded.png">
 </picture>
 
-In the [dashboard settings](https://zd-external-attachment-storage.eh7p.com/settings){:target="_blank"}, you can also modify whether the sidebar has offload controls, or is read-only.
+In the dashboard settings, you can also modify whether the sidebar has offload controls, or is read-only.
 
 <picture>
   <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/docs/sidebar-app/sidebar-controls.webp">
