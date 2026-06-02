@@ -16,7 +16,7 @@ All access to the dashboard and controls is protected through Zendesk's authoriz
 
 All sidebar communication is routed through [Zendesk's proxy servers](https://developer.zendesk.com/documentation/apps/app-developer-guide/making-api-requests-from-a-zendesk-app/) and authenticated by your individual sidebar API key.
 
-Attachment links within the sidebar app are time-restricted to prevent indefinite access.
+Attachment links within the agent sidebar app are time-restricted to 30 minutes.
 
 ## Cloud Storage
 
