@@ -15,10 +15,10 @@ Attachments differ in type between:
 
 Because linked attachments are hosted by Zendesk, these are not visible to end-users once they have been offloaded. You can read more about [Linked attachments on Zendesk's help site](https://support.zendesk.com/hc/en-us/articles/4408832757146-Allowing-attachments-in-tickets#topic_lv2_cnx_xdb).
 
-|                   | Email Attachment | Inline Attachment | Linked Attachment |   |
-|-------------------|------------------|-------------------|-------------------|---|
-| End-User -> Agent | Visible          | Visible           | N/A               |   |
-| Agent -> End-User | Visible          | Visible           | Not Visible       |   |
+|                   | Email Attachment | Inline Attachment | Linked Attachment |
+|-------------------|------------------|-------------------|-------------------|
+| End-User -> Agent | Visible          | Visible           | N/A               |
+| Agent -> End-User | Visible          | Visible           | Not Visible       |
 
 Attachments sent from the end-user to agents are always visible to the end-user.
 
