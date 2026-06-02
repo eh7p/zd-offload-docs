@@ -18,6 +18,6 @@ All sidebar communication is routed through [Zendesk's proxy servers](https://de
 
 Attachment links within the sidebar app are time-restricted to prevent indefinite access.
 
-## Cloud Storage
+## Cloud Storage
 
 All our cloud storage is encrypted both over transit and at rest.
